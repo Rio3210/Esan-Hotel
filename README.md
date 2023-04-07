@@ -13,7 +13,7 @@ This is a RESTful API for managing hotel bookings, rooms, and users (including a
 
 1. Clone the repository:
 
-git clone https://github.com/Rio3210/hotel-booking-api.git
+git clone https://github.com/Rio3210/restful_api_for_hote.git
 
 
 2. Navigate to the project directory:
